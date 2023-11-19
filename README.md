@@ -1,5 +1,5 @@
 # Hacker news 
-A Hacker News entering your desired amount of hacking news with the following links for reference
+A Hacker News entering your desired amount of hacking news with the following links for reference.
 <br>
 <br> 
 **NOTE!** <br>
